@@ -1,0 +1,26 @@
+{
+  "name": "css-json-conversion",
+  "version": "1.0.1",
+  "description": "converts css string to json object and vice versa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Salaheldinyoussry/cssjson.git"
+  },
+  "keywords": [
+    "css",
+    "json",
+    "string",
+    "conversion",
+    "to"
+  ],
+  "author": "salaheldin elsadek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Salaheldinyoussry/cssjson/issues"
+  },
+  "homepage": "https://github.com/Salaheldinyoussry/cssjson#readme"
+}
